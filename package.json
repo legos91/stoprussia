@@ -1,0 +1,27 @@
+{
+  "name": "stoprussia",
+  "version": "1.0.0",
+  "description": "путін-хуйло!",
+  "main": "index.js",
+  "dependencies": {
+    "data-uri-to-buffer": "^4.0.0",
+    "fetch-blob": "^3.1.4",
+    "formdata-polyfill": "^4.0.10",
+    "node-domexception": "^1.0.0",
+    "node-fetch": "^3.2.0",
+    "web-streams-polyfill": "^3.2.0"
+  },
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fuck",
+    "russia",
+    "putin-hujlo",
+    "путін-хуйло",
+    "пуйло"
+  ],
+  "author": "",
+  "license": "ISC"
+}
